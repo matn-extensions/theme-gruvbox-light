@@ -1,0 +1,16 @@
+{
+  "name": "Gruvbox Light",
+  "type": "light",
+  "author": "Matn Team",
+  "version": "1.0.0",
+  "colors": {
+    "bg": "#FBF1C7",
+    "barBg": "#EBDBB2",
+    "text": "#3C3836",
+    "muted": "#928374",
+    "accent": "#B57614",
+    "activeLine": "#EBDBB2",
+    "cursor": "#AF3A03",
+    "border": "#BDAE93"
+  }
+}
